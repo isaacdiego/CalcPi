@@ -1,0 +1,2 @@
+# CalcPi
+Experiments on OpenMP
